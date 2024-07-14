@@ -3,7 +3,7 @@
 #Final Project on "Census Income" Dataset
 #In this project, you are going to work on the The "Census Income" data set from the UCI
 #Machine Learning Repository that contains the income information for over 48,000 individuals
-#taken from the 1994 US census.
+#taken from the 1994 US census..
 
 
 #Problem Statement:
